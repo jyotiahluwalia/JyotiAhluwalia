@@ -1,6 +1,7 @@
 ### Hi, I’m @jyotiahluwalia 👋
 
 🔭 I’m currently working on advancing my skills in Data Science through my MSc program.
+
 🌱 I’m currently learning advanced statistical techniques and machine learning algorithms.
 👯 I’m looking to collaborate on projects that involve data analysis and visualization.
 🤔 I’m looking for help with exploring new avenues in data science research and application.
